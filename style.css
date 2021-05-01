@@ -252,6 +252,7 @@ footer{
     background-image: url(footer_img.jpg);
     background-repeat: no-repeat;
     float: left;
+    color: white;
 }
 
 .clients{
